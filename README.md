@@ -50,4 +50,4 @@ Below are some of the many technologies I am proficient in. The skills I have wi
 ---
 
 ## Upcoming
-- Stay tuned for updates.
+-- Working on updating all of my projects to be responsive. 
