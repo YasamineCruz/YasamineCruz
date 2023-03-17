@@ -50,4 +50,6 @@ Below are some of the many technologies I am proficient in. The skills I have wi
 ---
 
 ## Upcoming
--- Working on updating all of my projects to be responsive. 
+- Working on updating all of my projects to be responsive. 
+- Adding Google Maps to Nature Nook
+- Adding Messaging to Nature Nook
