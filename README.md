@@ -5,7 +5,7 @@
 
 I am a Fullstack Software Engineer that specializes in Javascript and Python! Not only am I good in a team but I work alone amazingly as well. I enjoy rock climbing and coding for the same reason they require me to think quickly on my feet and problem solve. 
 
-Below are some of the many technologies I am proficient in. The skills I have with each of these can is also easily transferrable to anything not listed!
+Below are some of the many technologies I am proficient in. The skills I have with each of these is also easily transferrable to anything not listed!
 
 ## 📚 Tech Stack
 
